@@ -1,0 +1,125 @@
+{
+  "name": "Dagang Lawar",
+  "location": [
+    {
+      "id": 1,
+      "name": "Lawar Sukawati",
+      "address": "Jl. Sawo, Bitera, Kec. Gianyar, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (05.00-22.00)",
+      "latitude": -8.52987,
+      "longitude": 115.318104
+    },
+    {
+      "id": 2,
+      "name": "Lawar Kambing Mang Raka Gianyar",
+      "address": "Jl. Raya Tojan No.31, Blahbatuh, Kec. Gianyar, Kabupaten Gianyar, Bali 80581",
+      "description": "Buka setiap hari (09.30-16.00)",
+      "latitude": -8.573116,
+      "longitude": 115.304795
+    },
+    {
+      "id": 3,
+      "name": "Lawar Plek Made Merta",
+      "address": "Jl. Pandu, Guwang, Kec. Sukawati, Kabupaten Gianyar, Bali 80582",
+      "description": "Buka setiap hari (09.30-16.00)",
+      "latitude": -8.612804,
+      "longitude": 115.286797
+    },
+    {
+      "id": 4,
+      "name": "Lawar Kambing Pakdebo",
+      "address": "Jl. Astina Sel., Abianbase, Kec. Gianyar, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (09.30-16.00)",
+      "latitude": -8.549948,
+      "longitude": 115.320099
+    },
+    {
+      "id": 5,
+      "name": "Warung Makan Lawar Bebek “Pitik Bali”",
+      "address": "Pasar Senggol Sari Boga, Gianyar, Kec. Gianyar, Kabupaten Gianyar, Bali 80511",
+      "description": "Buka setiap hari (14.00-21.00)",
+      "latitude": -8.541349,
+      "longitude": 115.32633
+    },
+    {
+      "id": 6,
+      "name": "Warung Makan Lawar bali Pak Congkang",
+      "address": "Jl. Mahendradata, Bitera, Kec. Gianyar, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (10.00-20.00)",
+      "latitude": -8.534968,
+      "longitude": 115.315996
+    },
+    {
+      "id": 7,
+      "name": "Warung Gusti Mahendra Lawar Bali",
+      "address": "Jl. Mulawarman, Abianbase, Kec. Gianyar, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (07.00-20.00)",
+      "latitude": -8.55098,
+      "longitude": 115.326983
+    },
+    {
+      "id": 8,
+      "name": "Warung Nasi Lawar Pak De Reges",
+      "address": "Jl. By Pass Dharma Giri, Buruan, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581",
+      "description": "Buka setiap hari (12.00-22.00)",
+      "latitude": -8.549843,
+      "longitude": 115.308747
+    },
+    {
+      "id": 9,
+      "name": "Lawar Sapi Nang Kembar",
+      "address": "Jalan Mulawarman, Desa Tedung, Abianbase, Kec. Gianyar, Kabupaten Gianyar, Bali 80511",
+      "description": "Buka setiap hari (11.00-20.00)",
+      "latitude": -8.564378,
+      "longitude": 115.326978
+    },
+    {
+      "id": 10,
+      "name": "Warung Makan Lawar Bali, Made Gerda",
+      "address": "Jl. Lg Gambir No.42, Medahan, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (11.00-20.00)",
+      "latitude": -8.571459,
+      "longitude": 115.335903
+    },
+    {
+      "id": 11,
+      "name": "Warung Lawar Bali Pong Adi",
+      "address": "Jl. Raya Belega, Belega, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80391",
+      "description": "Buka setiap hari (11.00-18.00)",
+      "latitude": -8.559685,
+      "longitude": 115.308812
+    },
+    {
+      "id": 12,
+      "name": "Lawar Bali MERANGGI",
+      "address": "Jl. Selukat, Keramas, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581",
+      "description": "Buka setiap hari (08.00-18.00)",
+      "latitude": -8.585937,
+      "longitude": 115.328787
+    },
+    {
+      "id": 13,
+      "name": "Arya Lawar Bali",
+      "address": "Jl. Raya Bona Bona Kangin, Blahbatuh, Bona, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80581",
+      "description": "Buka setiap hari (11.00-20.00)",
+      "latitude": -8.556597,
+      "longitude": 115.314963
+    },
+    {
+      "id": 14,
+      "name": "Warung Pasek Lawar Bali",
+      "address": "Jl. Prof. Dr. Ida Bagus Mantra, Medahan, Kec. Blahbatuh, Kabupaten Gianyar, Bali 80237",
+      "description": "Buka setiap hari (07.00-22.00)",
+      "latitude": -8.5911,
+      "longitude": 115.34237
+    },
+    {
+      "id": 15,
+      "name": "Warung Nasi Lawar Abianbase",
+      "address": "Jl. Astina Sel., Abianbase, Kec. Gianyar, Kabupaten Gianyar, Bali 80515",
+      "description": "Buka setiap hari (09.00-21.00)",
+      "latitude": -8.549379,
+      "longitude": 115.328984
+    }
+  ]
+}
